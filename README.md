@@ -3,7 +3,6 @@
 **`Craftsman (Developer/Designer)`**
 Hi👋. I am a frontend (React) developer with 4+ experience in the tech industry.
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patricklema04/) 
 
 # 💻 Tech Stack:
