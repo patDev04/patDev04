@@ -4,13 +4,11 @@ Hi. I'm Patrick
 **`Craftsman (Developer/Designer)`**
 
 I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my inprint in the digiyal world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
-
-
-https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
-
 <p >
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://www.buymeacoffee.com/patricklema">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-BuyMeACoffee-yellow?style=for-the-badge&logoColor=white&logo=pape"/></a>
 </p>
 
 ----
