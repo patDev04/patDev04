@@ -10,7 +10,7 @@ https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badg
 
 <p >
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ----
