@@ -6,9 +6,11 @@ Hi. I'm Patrick
 I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my inprint in the digiyal world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
 
 
-<p>
+https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+
+<p >
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views](https://www.buymeacoffee.com/patricklema"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 ----
