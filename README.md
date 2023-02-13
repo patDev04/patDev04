@@ -1,9 +1,10 @@
-# 😎 Patrick Lema
+#  
+Hi. I'm Patrick
 
 **`Craftsman (Developer/Designer)`**
 
 <br>
-Hi👋. I am a frontend (React) developer with 4+ experience in the tech industry.
+I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my inprint in the digiyal world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patricklema04/) 
 
