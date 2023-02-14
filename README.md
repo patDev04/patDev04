@@ -55,8 +55,8 @@ I am a frontend (React) developer with 4+ experience in the tech industry along 
   ![](https://github-readme-stats.vercel.app/api?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)    
   
   <h4> GitHub Profile Stats</h4>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=false' height='192px'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact' height='192px'/>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=false' height='192px' width='400px'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact' height='192px' width='400px' />
 
   #
   
