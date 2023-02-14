@@ -1,23 +1,16 @@
-# Hi. I'm Patrick
-
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
-</p> -->
-
+## Hi. I'm Patrick
 
 **`Craftsman (Developer/Designer)`**
 
 I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my inprint in the digiyal world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
 <p >
+<a href=''>
+  <img src='https://visitcount.itsvg.in/api?id=patDev04&icon=0&color=0' height='28px' borderRadius='0px'/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://www.buymeacoffee.com/patricklema">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-BuyMeACoffee-yellow?style=for-the-badge&logoColor=white&logo=pape"/></a>
+    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
-
-----
-
 
 ### Languages & Tools
 
@@ -71,28 +64,18 @@ I am a frontend (React) developer with 4+ experience in the tech industry along 
   
 <img src='https://github-readme-activity-graph.cyclic.app/graph?username=patDev04&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true' />
   
- 
-<!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-  
 </details>
 
- 
+
+###  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=patDev04&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+###  Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<img src="https://random-memer.herokuapp.com/" width="812px"/>
 
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patDev04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=patDev04&icon=5&color=9)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/patricklema) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
