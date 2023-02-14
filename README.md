@@ -62,18 +62,23 @@ I am a frontend (React) developer with 4+ experience in the tech industry along 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username=patDev04&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true' />
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=patDev04&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false' height='400px'/>
   
 </details>
 
+#
 
 ###  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=patDev04&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
+#
+
 ###  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://random-memer.herokuapp.com/" width="812px"/>
+#
+
+<!-- <img src="https://random-memer.herokuapp.com/" width="812px"/> -->
 
 
 
