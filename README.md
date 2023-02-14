@@ -57,31 +57,23 @@ I am a frontend (React) developer with 4+ experience in the tech industry along 
 <details> 
   <summary><h4>Github Stats and Activity</h4></summary>
 
-  <h6>Streak Stats</h6>
+  <h5>Streak Stats</h5>
 
   ![](https://github-readme-stats.vercel.app/api?username=patDev04&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)    
   
   <h3>GitHub Profile Stats</h3>
 
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=true' height='192px'/>
-'192px'/>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact' height='192px'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-    dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact' height='192px'/
   
-
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
  
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patDev04&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=patDev04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
