@@ -2,7 +2,7 @@
 
 **`Craftsman (Developer/Designer)`**
 
-I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my inprint in the digital world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
+I am a frontend (React) developer with 4+ experience in the tech industry along with in design (graphics) experience, putting my imprint in the digital world. ALl personal coding projects are bulit from the ground up, from planining and desigining all the way to solving real-life problems with code.
 <p >
 <a href=''>
   <img src='https://visitcount.itsvg.in/api?id=patDev04&icon=0&color=0' height='28px' borderRadius='0px'/></a>
